@@ -1,0 +1,47 @@
+.label {
+    font-size: 17px
+}
+
+select {
+    width: 95%;
+    margin: 0.2rem;
+}
+
+.letterInput {
+    width: 94%;
+    height: 180px;
+    font-size: 12pt
+}
+
+button {
+    margin: 1rem 0rem;
+    padding: 0.3rem
+}
+
+.letterCard {
+    background-color: #005eff5e;
+    border-radius: 0.2rem;
+    margin: 1rem;
+    height: 170px;
+    justify-content:space-around
+}
+
+.forLetterWritten {
+    font-size: 1rem;
+    padding: 10px;
+    justify-content:space-between
+}
+
+.forTopicType {
+    margin: 1rem ;
+    background: #ffe700;
+    width: 15%;
+    border-radius: 1rem;
+    border-color: black;
+    border-width: 5px
+}
+
+.forTopicType p {
+    font-size: 1rem;
+    margin: 0.7rem
+}

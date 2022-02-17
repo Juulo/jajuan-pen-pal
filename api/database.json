@@ -1,0 +1,101 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Joanna Hearth",
+      "email": "joanna@joanna.com"
+    },
+    {
+      "id": 2,
+      "name": "Micheal Bell",
+      "email": "michael@michael.com"
+    },
+    {
+      "id": 3,
+      "name": "Jajuan Jones",
+      "email": "jajuan@jajuan.com"
+    },
+    {
+      "id": 4,
+      "name": "Tabatha Nalongo",
+      "email": "tabatha@tabatha.com"
+    }
+  ],
+  "recepients": [
+    {
+      "id": 1,
+      "name": "Joanna Hearth",
+      "email": "joanna@joanna.com"
+    },
+    {
+      "id": 2,
+      "name": "Micheal Bell",
+      "email": "michael@michael.com"
+    },
+    {
+      "id": 3,
+      "name": "Jajuan Jones",
+      "email": "jajuan@jajuan.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "type": "happy"
+    },
+    {
+      "id": 2,
+      "type": "sad"
+    },
+    {
+      "id": 3,
+      "type": "important"
+    },
+    {
+      "id": 4,
+      "type": "family"
+    },
+    {
+      "id": 5,
+      "type": "business"
+    },
+    {
+      "id": 6,
+      "type": "work-related"
+    }
+  ],
+  "letters": [
+    {
+      "letter": "asdfasdfasdfasfasdf",
+      "authorId": 1,
+      "recepientId": 2,
+      "topicId": 1,
+      "timestamp": "1/17/2022",
+      "id": 1
+    },
+    {
+      "letter": "asdfdsfadasfasdf",
+      "authorId": 2,
+      "recepientId": 2,
+      "topicId": 1,
+      "timestamp": "1/17/2022",
+      "id": 2
+    },
+    {
+      "letter": "dfasadfadfsasdfdfasdfas",
+      "authorId": 1,
+      "recepientId": 2,
+      "topicId": 4,
+      "timestamp": "1/17/2022",
+      "id": 3
+    },
+    {
+      "letter": "Dear Jajuan,\nI'm contacting you to inquire if you'd be interested in talking about a role #suchandsuch# needs filled. \n\nAt Your Convenience,\nMicheal Bell",
+      "authorId": 2,
+      "recepientId": 3,
+      "topicId": 5,
+      "timestamp": "1/17/2022",
+      "id": 4
+    }
+  ]
+}
